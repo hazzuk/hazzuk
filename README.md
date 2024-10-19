@@ -11,36 +11,27 @@
 - ⚡ Fun Fact: As a kid, I accidentally installed my first hobby programming project on every computer at school. It was an overnight sensation, for better or worse.
 - 📫 How to reach me: My website.
 
-<h3 align="center">Some of my Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/79c370141fe104b4bdc85a5c3d0e21f2a98b12d5/icons/file_type_cypress.svg" alt="cypress" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=hazzuk&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazzuk&layout=compact&theme=dark&card_width=1" />
+</a>
+
+<br>
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,apple&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=bash,html,js,css,md,git,githubactions,docker,cloudflare&theme=dark)](https://skillicons.dev)
+
+### Previous Work
+
+[![My Skills](https://skillicons.dev/icons?i=cs,selenium,postman)](https://skillicons.dev)
+
+</div>
